@@ -5,6 +5,7 @@
     "nginx",
     "synchat",
     "synchatapi",
-    "synergychat"
+    "synergychat",
+    "testram"
   ]
 }
